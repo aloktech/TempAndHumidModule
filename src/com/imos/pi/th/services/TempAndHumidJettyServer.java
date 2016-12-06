@@ -1,5 +1,6 @@
-package com.imos.pi.th.others;
+package com.imos.pi.th.services;
 
+import com.imos.pi.th.utils.TempHumidCORSFilter;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;

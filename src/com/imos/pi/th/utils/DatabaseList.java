@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.imos.pi.th.others;
+package com.imos.pi.th.utils;
 
+import com.imos.pi.th.model.ListDayIndex;
 import com.imos.pi.th.model.TimeTempHumidData;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.inject.Inject;

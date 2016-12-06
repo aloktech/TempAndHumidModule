@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.imos.pi.th.others;
+package com.imos.pi.th.model;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -7,8 +7,8 @@ package com.imos.pi.th.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
-import static com.imos.pi.th.others.TempAndHumidConstant.HUMID;
-import static com.imos.pi.th.others.TempAndHumidConstant.TEMP;
+import static com.imos.pi.th.utils.TempAndHumidConstant.HUMID;
+import static com.imos.pi.th.utils.TempAndHumidConstant.TEMP;
 import java.io.Serializable;
 import lombok.Data;
 

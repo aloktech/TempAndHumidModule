@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.imos.pi.th.others;
+package com.imos.pi.th.services;
 
+import com.imos.pi.th.services.TempAndHumidService;
 import com.google.inject.Inject;
 import com.imos.common.utils.Scheduler;
 import com.imos.common.utils.SchedulerTask;

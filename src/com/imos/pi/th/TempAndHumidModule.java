@@ -1,14 +1,14 @@
 package com.imos.pi.th;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.imos.pi.th.others.TemperatureSensorAction;
-import com.imos.pi.th.others.TempAndHumidJettyServer;
+import com.imos.pi.th.services.TemperatureSensorAction;
+import com.imos.pi.th.services.TempAndHumidJettyServer;
 import com.google.inject.AbstractModule;
 import com.google.inject.Guice;
 import com.google.inject.Inject;
 import com.google.inject.Injector;
 import com.imos.pi.th.model.TimeTempHumidData;
-import com.imos.pi.th.others.DatabaseList;
+import com.imos.pi.th.utils.DatabaseList;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
